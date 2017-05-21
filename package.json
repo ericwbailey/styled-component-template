@@ -1,0 +1,24 @@
+{
+  "name": "sass-component-template",
+  "description": "A template to help create consistent, performant Sass components.",
+  "homepage": "https://github.com/ericwbailey/sass-component-template",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Eric Bailey <eric.w.bailey@gmail.com> (http://ericwbailey.com/)",
+  "main": "_type.name.scss",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ericwbailey/sass-component-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ericwbailey/sass-component-template/issues",
+    "email": "eric.w.bailey@gmail.com"
+  },
+  "keywords": [
+    "css",
+    "scss",
+    "sass",
+    "component",
+    "partial"
+  ]
+}
