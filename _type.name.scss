@@ -1,30 +1,29 @@
 // ============================================================================
-// Type (Layout, Object, Component, Theme, etc.)
-// $name
+// Type
+// Name
+// Link
 // ============================================================================
 
 
-// Long-form comments
-// Can span multiple lines, is constrained to an 80 character-long width. Use
-// this comment block to provide any high level background information about the
-// component.
+// Long-form Comments
 //
 // [1] Numbered reference for comments that apply to multiple lines
 
 
-.type-$name {
-    // 1. Encapsulated logic: https://www.devbridge.com/articles/7-sass-techniques-to-help-you-write-better-code/
-    // 1.1. Maps
-    // 1.2. Functions
-    // 1.3. Mixins
-    // 1.4. Extends (use sparringly, gzip compresses more efficiently: http://csswizardry.com/2016/02/mixins-better-for-performance/)
+.type-name {
+    // 1. Encapsulated logic
+    // 1.1. Variables
+    // 1.2. Maps
+    // 1.3. Functions
+    // 1.4. Mixins
+    // 1.5. Extends
 
-    // 2. Properties, grouped alphabetically by intent:
+    // 2. Properties
     // 2.1. Box
     // 2.2. Border
     // 2.3. Background
     // 2.4. Text
-    // 2.5. Other (ex: cursors, transitions, etc.)
+    // 2.5. Other
 
     // 3. Pseudo
     // 3.1. Classes
@@ -35,14 +34,14 @@
     // 4.2. Focus
     // 4.3. Hover
     // 4.4. Active
-    // 4.5. Attributes and ARIA (`[aria-busy="true"]`, etc.)
+    // 4.5. Attributes
 
-    // 5. Contexts (ex: `.c-name & { }`)
+    // 5. Contexts
 
     // 6. Media Queries
     // 6.1. @supports
     // 6.2. Feature Queries
-    // 6.3. Breakpoints (repeat 1-5, develop mobile first)
+    // 6.3. Breakpoints
 
-    // 7. Nested selectors (repeat 2-7, leverage suffix selectors, try to avoid nesting more than 3 deep)
+    // 7. Nested selectors
 }
