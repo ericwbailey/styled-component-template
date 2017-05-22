@@ -4,6 +4,14 @@
 // ============================================================================
 
 
+// Long-form comments
+// Can span multiple lines, is constrained to an 80 character-long width. Use
+// this comment block to provide any high level background information about the
+// component.
+//
+// [1] Numbered reference for comments that apply to multiple lines
+
+
 .type-$name {
     // 1. Encapsulated logic: https://www.devbridge.com/articles/7-sass-techniques-to-help-you-write-better-code/
     // 1.1. Maps
