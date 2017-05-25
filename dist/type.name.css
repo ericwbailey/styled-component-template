@@ -1,0 +1,51 @@
+/* ============================================================================
+ * Type
+ * Name
+ * Link
+============================================================================ */
+
+
+/* Long-form Comments
+
+* [1] Numbered reference for comments that apply to multiple lines
+*/
+
+
+.type-name {
+    /* 2. Properties */
+    /* 2.1. Box */
+    /* 2.2. Border */
+    /* 2.3. Background */
+    /* 2.4. Text */
+    /* 2.5. Other */
+}
+
+.type-name {
+    /* 3. Pseudo */
+    /* 3.1. Classes */
+    /* 3.2. Elements */
+}
+
+.type-name {
+    /* 4. States */
+    /* 4.1. Visited */
+    /* 4.2. Focus */
+    /* 4.3. Hover */
+    /* 4.4. Active */
+    /* 4.5. Attributes */
+}
+
+.type-name {
+    /* 5. Contexts */
+}
+
+.type-name {
+    /* 6. Media Queries */
+    /* 6.1. @supports */
+    /* 6.2. Feature Queries */
+    /* 6.3. Breakpoints */
+}
+
+.type-name {
+    /* 7. Nested selectors */
+}
