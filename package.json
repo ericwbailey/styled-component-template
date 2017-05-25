@@ -1,17 +1,17 @@
 {
-  "name": "sass-component-template",
+  "name": "styled-component-template",
   "description": "A collection of templates to help create consistent, performant component styling for CSS and most major CSS preprocessors.",
-  "homepage": "https://github.com/ericwbailey/sass-component-template",
+  "homepage": "https://github.com/ericwbailey/styled-component-template",
   "version": "0.0.3",
   "license": "MIT",
   "author": "Eric Bailey <eric.w.bailey@gmail.com> (http://ericwbailey.com/)",
   "main": "dist/_type.name.scss",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ericwbailey/sass-component-template.git"
+    "url": "git://github.com/ericwbailey/styled-component-template.git"
   },
   "bugs": {
-    "url": "https://github.com/ericwbailey/sass-component-template/issues",
+    "url": "https://github.com/ericwbailey/styled-component-template/issues",
     "email": "eric.w.bailey@gmail.com"
   },
   "keywords": [
